@@ -1,0 +1,10 @@
+site_name: MarchMadness
+markdown_extensions:
+  - mdx_math
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Data Files: data_files.md
+  - Features: features.md
